@@ -1,6 +1,9 @@
 召唤boss的时候，会多生成一个。
 没有指令，也没有配置文件，拷贝到插件目录即可。
 
+插件下载地址：
+[DoubleBoss.dll](https://gitee.com/hufang360/TShockDoubleBoss/attach_files/1093277/download/DoubleBoss.dll)
+
 
 <br>
 
