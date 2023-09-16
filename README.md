@@ -2,7 +2,7 @@
 没有指令，也没有配置文件，拷贝到插件目录即可。
 
 插件下载地址：
-[DoubleBoss.dll](https://gitee.com/hufang360/TShockDoubleBoss/attach_files/1093277/download/DoubleBoss.dll)
+[DoubleBoss.dll](https://github.com/hufang360/TShockDoubleBoss/releases/download/v1.0/DoubleBoss.dll)
 
 
 <br>
